@@ -1,2 +1,1 @@
-# ktmt-nhapmon
-dự án đầu tiên
+# KTMT Project\n\nThis project is for learning purposes.
